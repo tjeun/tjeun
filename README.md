@@ -5,6 +5,7 @@ Welcome to my personal page!
 <!--
 **tjeun/tjeun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 **Refer to https://sul-cidr.github.io/gh-pages-2021/ for the workshop slides on how to create a page using GitHub.
+**CV, research projects, teaching, service, fun/personal, Twitter, GitHub
 
 Here are some ideas to get you started:
 
